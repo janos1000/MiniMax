@@ -1,0 +1,7 @@
+C:\Users\BirinyiJZ\Gitwork\MiniMax\bin\Debug\MiniMax.exe.config
+C:\Users\BirinyiJZ\Gitwork\MiniMax\bin\Debug\MiniMax.exe
+C:\Users\BirinyiJZ\Gitwork\MiniMax\bin\Debug\MiniMax.pdb
+C:\Users\BirinyiJZ\Gitwork\MiniMax\obj\Debug\MiniMax.csproj.AssemblyReference.cache
+C:\Users\BirinyiJZ\Gitwork\MiniMax\obj\Debug\MiniMax.csproj.CoreCompileInputs.cache
+C:\Users\BirinyiJZ\Gitwork\MiniMax\obj\Debug\MiniMax.exe
+C:\Users\BirinyiJZ\Gitwork\MiniMax\obj\Debug\MiniMax.pdb
