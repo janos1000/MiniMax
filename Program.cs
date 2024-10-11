@@ -28,3 +28,22 @@ namespace MiniMax
 
                 int legkisebb = tomb[0];
                 int legnagyobb = tomb[0];
+
+                for (int i = 1; i < tomb.Length; i++)// legnagyobb-legkisebb keresése
+                {
+                    if (tomb[i] < legkisebb)
+                    {
+                        legkisebb = tomb[i];
+                    }
+                    if (tomb[i] > legnagyobb)
+                    {
+                        legnagyobb = tomb[i];
+                    }
+                }
+
+                Console.WriteLine("A legkisebb elem: " + legkisebb);
+                Console.WriteLine("A legnagyobb elem: " + legnagyobb);
+            }
+        }
+
+    }
